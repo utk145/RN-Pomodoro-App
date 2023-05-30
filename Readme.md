@@ -24,4 +24,8 @@ The Pomodoro App is a React Native application that helps you manage your time u
 ## Customization
 You can customize the duration of the focus and break sessions by modifying the `focus_time_in_minutes` and `break_time_in_minutes` constants in the App.tsx file.
 Feel free to modify the styling of the app in the styles object in the App.tsx file to suit your preferences.
-    
+
+
+
+https://github.com/utk145/RN-Pomodoro-App/assets/122993091/f18c468b-87c3-4507-a32b-887b602620fb
+
